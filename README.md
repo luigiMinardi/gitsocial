@@ -2,13 +2,15 @@
 
 <!-- display the social media buttons in your README -->
 
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
-[![alt text][3.1]][3]
-[![alt text][4.1]][4]
-[![alt text][5.1]][5]
-[![alt text][6.1]][6]
+![alt text][1.1]
+![alt text][2.1]
+![alt text][3.1]
+![alt text][4.1]
+![alt text][5.1]
+![alt text][6.1]
+![linkedin][7.1]
 
+[7.1]: https://raw.githubusercontent.com/luigiMinardi/gitsocial/master/assets/icons%20without%20padding/linkedin.png
 
 <!-- links to social media icons -->
 <!-- no need to change these -->
@@ -35,12 +37,12 @@
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
 
-[1]: http://www.twitter.com/carlsednaoui
-[2]: http://www.facebook.com/sednaoui
-[3]: https://plus.google.com/+CarlSednaoui
-[4]: http://carlsed.tumblr.com
-[5]: http://dribbble.com/carlsednaoui
-[6]: http://www.github.com/carlsednaoui
+[1]: http://www.twitter.com/
+[2]: http://www.facebook.com/
+[3]: https://plus.google.com/
+[4]: http://tumblr.com
+[5]: http://dribbble.com/
+[6]: http://www.github.com/
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
