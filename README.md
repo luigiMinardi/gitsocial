@@ -9,8 +9,11 @@
 ![alt text][5.1]
 ![alt text][6.1]
 ![linkedin][7.1]
+![instagram][8.1]
+
 
 [7.1]: https://raw.githubusercontent.com/luigiMinardi/gitsocial/master/assets/icons%20without%20padding/linkedin.png
+[8.1]: https://raw.githubusercontent.com/luigiMinardi/gitsocial/master/assets/icons%20without%20padding/instagram.png
 
 <!-- links to social media icons -->
 <!-- no need to change these -->
